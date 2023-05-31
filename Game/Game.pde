@@ -1,5 +1,5 @@
 /* Game Class Starter File
- * Authors: _____________________
+ * Authors: Nauroz
  * Last Edit: 5/22/23
  */
 
